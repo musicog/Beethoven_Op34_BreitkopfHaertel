@@ -23,7 +23,7 @@
                <name xml:id="name-0000001977985677">Verovio</name>
                <p xml:id="p-0000000958417779">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="ac84fey2" enddate="2024-10-03T12:54:47" startdate="2024-10-03T12:51:58" version="1.0.16">
+            <application xml:id="ac84fey2" enddate="2024-10-03T12:56:26" startdate="2024-10-03T12:51:58" version="1.0.16">
                <name xml:id="nzqar6b1">mei-friend</name>
                <p xml:id="p87romh1">First edit by mei-friend 1.0.16, 2 October 2024.</p>
             </application>
@@ -140,7 +140,6 @@
                               </beam>
                            </layer>
                         </staff>
-                        <slur xml:id="slur-0000000148508527" startid="#note-0000000136981673" endid="#note-0000000347848722" curvedir="above" />
                         <slur xml:id="slur-0000000627931315" startid="#chord-0000001368871318" endid="#chord-0000001553130171" curvedir="above" />
                      </measure>
                      <measure xml:id="measure-0000001411527366" n="2">
@@ -239,7 +238,6 @@
                         <slur xml:id="slur-0000001801843106" startid="#note-0000001785606066" endid="#note-0000001746625256" curvedir="above" />
                         <slur xml:id="slur-0000001690666223" startid="#note-0000001909610110" endid="#note-0000000674014355" curvedir="above" />
                         <slur xml:id="swk5lpz2" endid="#note-0000001966413665" staff="1" startid="#note-0000001261183929"/>
-                        <slur xml:id="sjgl4c4" endid="#note-0000000881326584" staff="1" startid="#note-0000001824908834"/>
                      </measure>
                      <measure xml:id="measure-0000000405543888" n="4">
                         <staff xml:id="staff-0000001132594889" n="1">
