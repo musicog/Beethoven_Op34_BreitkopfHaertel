@@ -23,7 +23,7 @@
                <name xml:id="name-0000001977985677">Verovio</name>
                <p xml:id="p-0000000958417779">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="ac84fey2" enddate="2024-10-03T13:06:06" startdate="2024-10-03T12:51:58" version="1.0.16">
+            <application xml:id="ac84fey2" enddate="2024-10-03T13:07:29" startdate="2024-10-03T12:51:58" version="1.0.16">
                <name xml:id="nzqar6b1">mei-friend</name>
                <p xml:id="p87romh1">First edit by mei-friend 1.0.16, 2 October 2024.</p>
             </application>
@@ -104,10 +104,14 @@
                               </chord>
                               <beam xml:id="beam-0000001349367198">
                                  <chord xml:id="chord-0000001033454749" dur="8" stem.dir="up">
-                                    <note xml:id="note-0000001421506491" oct="4" pname="e"/>
+                                    <note xml:id="note-0000001421506491" oct="6" pname="c">
+<accid xml:id="aqn17gs2" accid="s"/>
+</note>
                                  </chord>
                                  <chord xml:id="chord-0000001813328702" dur="8" stem.dir="up">
-                                    <note xml:id="note-0000000504021362" oct="4" pname="e"/>
+                                    <note xml:id="note-0000000504021362" oct="6" pname="c">
+<accid xml:id="af7tx181" accid="s"/>
+</note>
                                  </chord>
                               </beam>
                            </layer>
