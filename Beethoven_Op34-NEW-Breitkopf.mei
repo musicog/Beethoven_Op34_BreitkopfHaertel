@@ -5,10 +5,10 @@
    <meiHead>
       <fileDesc>
          <titleStmt>
-            <title>SES VARIACIOJ!</title>
+            <title>SES VARIACIOJ</title>
             <respStmt>
-               <persName role="composer">Ludviko de Bethoveno</persName>
-               <persName role="poet">Verkado 34</persName>
+               <persName role="composer">Ludwig van Boothoven</persName>
+               <persName role="poet">Opus 34</persName>
             </respStmt>
          </titleStmt>
          <pubStmt>
@@ -23,7 +23,7 @@
                <name xml:id="name-0000001977985677">Verovio</name>
                <p xml:id="p-0000000958417779">Transcoded from MusicXML</p>
             </application>
-            <application xml:id="ac84fey2" enddate="2025-04-07T11:18:55" startdate="2024-10-03T12:51:58" version="1.2.3">
+            <application xml:id="ac84fey2" enddate="2025-04-07T11:30:46" startdate="2024-10-03T12:51:58" version="1.2.3">
                <name xml:id="nzqar6b1">mei-friend</name>
                <p xml:id="p87romh1">First edit by mei-friend 1.0.16, 2 October 2024.</p>
             </application>
@@ -36,7 +36,7 @@
             <score xml:id="score-0000001646574333">
                <scoreDef xml:id="scoredef-0000000917134699" key.sig="1f">
                   <pgHead xml:id="pghead-0000002045266725">
-                     <rend xml:id="rend-0000000423485031" halign="left" valign="middle" fontsize="100.00%">Verkadoj de Bethoveno.<lb xml:id="lb-0000000931946803" />
+                     <rend xml:id="rend-0000000423485031" halign="left" valign="middle" fontsize="100.00%">Beethovens Werke.<lb xml:id="lb-0000000931946803" />
                      </rend>
                      <rend xml:id="rend-0000000423485032" halign="right" valign="middle" fontsize="100.00%">Serie 17. <abbr xml:id="abbr-0000000379336902" type="superscription">No.</abbr> 162.<lb xml:id="lb-0000000931946807" />
                      </rend>
@@ -96,9 +96,9 @@
                      <measure xml:id="measure-0000000393609761" n="1">
                         <staff xml:id="staff-0000002039052738" n="1">
                            <layer xml:id="layer-0000000815328740" n="1">
-                              <chord xml:id="chord-0000000259829810" dur="4" stem.dir="down">
-                                 <note xml:id="note-0000001074401381" oct="4" pname="f" />
-                                 <note xml:id="note-0000000136981673" oct="5" pname="c" />
+                              <chord xml:id="chord-0000000259829810" dur="4" stem.dir="up">
+                                 <note xml:id="note-0000001074401381" oct="4" pname="f"/>
+                                 <note xml:id="note-0000000136981673" oct="5" pname="c"/>
                               </chord>
                               <beam xml:id="beam-0000001349367198">
                                  <chord xml:id="chord-0000001033454749" dur="8" stem.dir="down">
