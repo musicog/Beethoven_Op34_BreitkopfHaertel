@@ -36,7 +36,7 @@
             <score xml:id="score-0000001646574333">
                <scoreDef xml:id="scoredef-0000000917134699" key.sig="1f">
                   <pgHead xml:id="pghead-0000002045266725">
-                     <rend xml:id="rend-0000000423485031" halign="left" valign="middle" fontsize="100.00%">Beethovens Werke.<lb xml:id="lb-0000000931946803" />
+                     <rend xml:id="rend-0000000423485031" halign="left" valign="middle" fontsize="100.00%">Verkadoj de Bethoveno.<lb xml:id="lb-0000000931946803" />
                      </rend>
                      <rend xml:id="rend-0000000423485032" halign="right" valign="middle" fontsize="100.00%">Serie 17. <abbr xml:id="abbr-0000000379336902" type="superscription">No.</abbr> 162.<lb xml:id="lb-0000000931946807" />
                      </rend>
